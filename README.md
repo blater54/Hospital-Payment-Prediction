@@ -1,5 +1,5 @@
 # Summary
-
+* Cleaned over 163,000 data
 * Wanted to predict hospital prices to see if prices would increase in the future 
 * I used Log transformation on this model to improve the data set as it had a log curve. 
 
